@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YFPxymYvk6t6Vn4DkD6XsrugeGLh9GrFsvj74JiSEF9VPb8xNjkeafc4CNPWFGt85z9OCQ96/q7GC4lQ7ZtApQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dkhpr\\source\\repos\\1.Prototype\\1.Prototype\\1.5Prototype.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dkhpr\\.nuget\\packages\\bogus\\34.0.2\\bogus.34.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

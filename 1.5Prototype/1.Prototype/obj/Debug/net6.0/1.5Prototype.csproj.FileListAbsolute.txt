@@ -1,0 +1,17 @@
+C:\Users\dkhpr\source\repos\1.Prototype\1.Prototype\bin\Debug\net6.0\1.5Prototype.exe
+C:\Users\dkhpr\source\repos\1.Prototype\1.Prototype\bin\Debug\net6.0\1.5Prototype.deps.json
+C:\Users\dkhpr\source\repos\1.Prototype\1.Prototype\bin\Debug\net6.0\1.5Prototype.runtimeconfig.json
+C:\Users\dkhpr\source\repos\1.Prototype\1.Prototype\bin\Debug\net6.0\1.5Prototype.dll
+C:\Users\dkhpr\source\repos\1.Prototype\1.Prototype\bin\Debug\net6.0\1.5Prototype.pdb
+C:\Users\dkhpr\source\repos\1.Prototype\1.Prototype\bin\Debug\net6.0\Bogus.dll
+C:\Users\dkhpr\source\repos\1.Prototype\1.Prototype\obj\Debug\net6.0\1.5Prototype.csproj.AssemblyReference.cache
+C:\Users\dkhpr\source\repos\1.Prototype\1.Prototype\obj\Debug\net6.0\1.5Prototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dkhpr\source\repos\1.Prototype\1.Prototype\obj\Debug\net6.0\1.5Prototype.AssemblyInfoInputs.cache
+C:\Users\dkhpr\source\repos\1.Prototype\1.Prototype\obj\Debug\net6.0\1.5Prototype.AssemblyInfo.cs
+C:\Users\dkhpr\source\repos\1.Prototype\1.Prototype\obj\Debug\net6.0\1.5Prototype.csproj.CoreCompileInputs.cache
+C:\Users\dkhpr\source\repos\1.Prototype\1.Prototype\obj\Debug\net6.0\1.5Prototype.csproj.CopyComplete
+C:\Users\dkhpr\source\repos\1.Prototype\1.Prototype\obj\Debug\net6.0\1.5Prototype.dll
+C:\Users\dkhpr\source\repos\1.Prototype\1.Prototype\obj\Debug\net6.0\refint\1.5Prototype.dll
+C:\Users\dkhpr\source\repos\1.Prototype\1.Prototype\obj\Debug\net6.0\1.5Prototype.pdb
+C:\Users\dkhpr\source\repos\1.Prototype\1.Prototype\obj\Debug\net6.0\1.5Prototype.genruntimeconfig.cache
+C:\Users\dkhpr\source\repos\1.Prototype\1.Prototype\obj\Debug\net6.0\ref\1.5Prototype.dll
