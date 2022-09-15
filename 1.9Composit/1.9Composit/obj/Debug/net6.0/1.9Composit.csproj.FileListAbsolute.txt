@@ -1,0 +1,15 @@
+C:\Users\dkhpr\source\repos\1.9Composit\1.9Composit\bin\Debug\net6.0\1.9Composit.exe
+C:\Users\dkhpr\source\repos\1.9Composit\1.9Composit\bin\Debug\net6.0\1.9Composit.deps.json
+C:\Users\dkhpr\source\repos\1.9Composit\1.9Composit\bin\Debug\net6.0\1.9Composit.runtimeconfig.json
+C:\Users\dkhpr\source\repos\1.9Composit\1.9Composit\bin\Debug\net6.0\1.9Composit.dll
+C:\Users\dkhpr\source\repos\1.9Composit\1.9Composit\bin\Debug\net6.0\1.9Composit.pdb
+C:\Users\dkhpr\source\repos\1.9Composit\1.9Composit\obj\Debug\net6.0\1.9Composit.csproj.AssemblyReference.cache
+C:\Users\dkhpr\source\repos\1.9Composit\1.9Composit\obj\Debug\net6.0\1.9Composit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dkhpr\source\repos\1.9Composit\1.9Composit\obj\Debug\net6.0\1.9Composit.AssemblyInfoInputs.cache
+C:\Users\dkhpr\source\repos\1.9Composit\1.9Composit\obj\Debug\net6.0\1.9Composit.AssemblyInfo.cs
+C:\Users\dkhpr\source\repos\1.9Composit\1.9Composit\obj\Debug\net6.0\1.9Composit.csproj.CoreCompileInputs.cache
+C:\Users\dkhpr\source\repos\1.9Composit\1.9Composit\obj\Debug\net6.0\1.9Composit.dll
+C:\Users\dkhpr\source\repos\1.9Composit\1.9Composit\obj\Debug\net6.0\refint\1.9Composit.dll
+C:\Users\dkhpr\source\repos\1.9Composit\1.9Composit\obj\Debug\net6.0\1.9Composit.pdb
+C:\Users\dkhpr\source\repos\1.9Composit\1.9Composit\obj\Debug\net6.0\1.9Composit.genruntimeconfig.cache
+C:\Users\dkhpr\source\repos\1.9Composit\1.9Composit\obj\Debug\net6.0\ref\1.9Composit.dll
